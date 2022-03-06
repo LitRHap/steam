@@ -1,1 +1,1 @@
-bot: node index
+web: node . --server
